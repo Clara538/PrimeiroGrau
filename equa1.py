@@ -156,7 +156,7 @@ else:
 # TÍTULO
 # ============================================
 
-st.title("🧚‍♀️✨ Equação do 1º Grau")
+st.title("✨ Equação do 1º Grau")
 
 st.write("Equação no formato:")
 
